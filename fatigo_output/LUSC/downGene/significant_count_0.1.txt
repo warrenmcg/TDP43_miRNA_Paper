@@ -1,0 +1,8 @@
+#DB	Nº of significant terms
+GO biological process (levels from 3 to 9)	287
+GO cellular component (levels from 3 to 9)	36
+GO molecular function (levels from 3 to 9)	54
+KEGG	36
+Reactome	9
+Biocarta	23
+

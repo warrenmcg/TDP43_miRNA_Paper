@@ -1,0 +1,3 @@
+#DB	Number of annotations
+Your annotations	10575 of 73599 (14.37%) 4.67 annotations/id
+

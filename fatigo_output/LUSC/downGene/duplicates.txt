@@ -1,0 +1,4 @@
+#Detail	List 1	Genome
+Number of duplicates	0 of 991 (0%)	1165 of 23621 (0.05%)
+Number of finally used ids	991	22456
+

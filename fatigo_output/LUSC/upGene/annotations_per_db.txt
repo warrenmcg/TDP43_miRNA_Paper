@@ -1,0 +1,8 @@
+#DB	List1	Genome
+GO biological process (levels from 3 to 9)	503 of 796 (63.19%) 13.05 annotations/id	10907 of 19526 (55.86%) 7.4 annotations/id
+GO cellular component (levels from 3 to 9)	330 of 796 (41.46%) 1.99 annotations/id	6776 of 19526 (34.7%) 1.19 annotations/id
+GO molecular function (levels from 3 to 9)	480 of 796 (60.3%) 5.05 annotations/id	10761 of 19526 (55.11%) 2.82 annotations/id
+KEGG	178 of 796 (22.36%) 1.01 annotations/id	4279 of 19526 (21.91%) 0.55 annotations/id
+Reactome	129 of 796 (16.21%) 0.54 annotations/id	3279 of 19526 (16.79%) 0.3 annotations/id
+Biocarta	44 of 796 (5.53%) 0.73 annotations/id	887 of 19526 (4.54%) 0.14 annotations/id
+

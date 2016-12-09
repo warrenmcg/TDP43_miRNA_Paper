@@ -1,0 +1,40 @@
+Processing up-regulated genes in LUAD
+Converting FatiGO processed results into Hive Table
+converting Hive Table to Dot File
+Processing down-regulated genes in LUAD
+Converting FatiGO processed results into Hive Table
+converting Hive Table to Dot File
+Creating the HivePlots
+creating the hive plot objects (this may take several minutes)...
+creating the up-gene, down-mirna normalized hive plot
+null device 
+          1 
+creating the down-gene, up-mirna normalized hive plot
+null device 
+          1 
+creating the up-gene, down-mirna rank normalized hive plot
+null device 
+          1 
+creating the down-gene, up-mirna rank normalized hive plot
+null device 
+          1 
+Processing up-regulated genes in LUSC
+Converting FatiGO processed results into Hive Table
+converting Hive Table to Dot File
+Processing down-regulated genes in LUSC
+Converting FatiGO processed results into Hive Table
+converting Hive Table to Dot File
+creating the hive plot objects (this may take several minutes)...
+creating the up-gene, down-mirna normalized hive plot
+null device 
+          1 
+creating the down-gene, up-mirna normalized hive plot
+null device 
+          1 
+creating the up-gene, down-mirna rank normalized hive plot
+null device 
+          1 
+creating the down-gene, up-mirna rank normalized hive plot
+null device 
+          1 
+Step 9 Complete

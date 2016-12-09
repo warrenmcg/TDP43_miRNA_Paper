@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<result>
+  <metadata>
+    <item name="version" title="SDK version" type="MESSAGE" tags="" style="" group="" context="">v0.7</item>
+    <item name="date" title="Job date" type="MESSAGE" tags="" style="" group="" context="">2016-12-08</item>
+    <item name="tool" title="Tool executed" type="MESSAGE" tags="" style="" group="" context="">fatigo</item>
+    <item name="flags" title="" type="MESSAGE" tags="" style="" group="" context="">SHOW_PVALUES</item>
+  </metadata>
+  <input>
+    <item name="tool" title="tool name" type="MESSAGE" tags="" style="" group="" context="">fatigo</item>
+    <item name="outdir" title="outdir to save the results" type="MESSAGE" tags="" style="" group="" context="">/httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326402</item>
+    <item name="log-file" title="name of the log file, default: result.log" type="MESSAGE" tags="" style="" group="" context="">/httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326402/job.log</item>
+    <item name="go-mf" title="GO molecular function database" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="kegg" title="kegg" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="go-cc-propagation" title="GO cellular component, direct vs propagated annotation" type="MESSAGE" tags="" style="" group="" context="">propagate</item>
+    <item name="go-bp-max-level" title="GO biological process, max GO level to take into account, default 15" type="MESSAGE" tags="" style="" group="" context="">9</item>
+    <item name="kegg-min-num-genes" title="kegg min number of genes filter" type="MESSAGE" tags="" style="" group="" context="">5</item>
+    <item name="go-bp-propagation" title="GO biological process, direct vs propagated annotation" type="MESSAGE" tags="" style="" group="" context="">propagate</item>
+    <item name="go-bp" title="GO biological process database" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="go-cc-min-level" title="GO cellular component, min go level to take into account, default 3" type="MESSAGE" tags="" style="" group="" context="">3</item>
+    <item name="go-mf-nannot-domain" title="GO molecular function, computes the number of annotated genes from all genome, otherwise from your input list" type="MESSAGE" tags="" style="" group="" context="">genome</item>
+    <item name="list1" title="the feature data containig the list #1 of genes, or the feature data file" type="MESSAGE" tags="" style="" group="" context="">/httpd/bioinfo/wum_sessions_v0.7/1176760/data/589707/LUSC_upGenes_downMirnaTDP43FatigoInput.txt</item>
+    <item name="go-cc-max-level" title="GO cellular component, max GO level to take into account, default 15" type="MESSAGE" tags="" style="" group="" context="">9</item>
+    <item name="go-mf-max-level" title="GO molecular function, max GO level to take into account, default 15" type="MESSAGE" tags="" style="" group="" context="">9</item>
+    <item name="reactome-min-num-genes" title="reactome min number of genes filter" type="MESSAGE" tags="" style="" group="" context="">5</item>
+    <item name="biocarta-min-num-genes" title="biocarta min number of genes filter" type="MESSAGE" tags="" style="" group="" context="">5</item>
+    <item name="go-mf-propagation" title="GO molecular function, direct vs propagated annotation" type="MESSAGE" tags="" style="" group="" context="">propagate</item>
+    <item name="go-mf-keyword-operator" title="GO molecular function, keywords filter logic: all or any" type="MESSAGE" tags="" style="" group="" context="">all</item>
+    <item name="go-bp-min-level" title="GO biological process, min go level to take into account, default 3" type="MESSAGE" tags="" style="" group="" context="">3</item>
+    <item name="kegg-max-num-genes" title="kegg max number of genes filter" type="MESSAGE" tags="" style="" group="" context="">1000</item>
+    <item name="go-cc-keyword-operator" title="GO cellular component, keywords filter logic: all or any" type="MESSAGE" tags="" style="" group="" context="">all</item>
+    <item name="duplicates" title="to remove duplicated IDs, valid values: never, each, ref. By default, never" type="MESSAGE" tags="" style="" group="" context="">ref</item>
+    <item name="species" title="The specie of the ids" type="MESSAGE" tags="" style="" group="" context="">hsa</item>
+    <item name="go-bp-keyword-operator" title="GO biological process, keywords filter logic: all or any" type="MESSAGE" tags="" style="" group="" context="">all</item>
+    <item name="go-cc-max-num-genes" title="GO cellular component, max number of genes filter" type="MESSAGE" tags="" style="" group="" context="">1000</item>
+    <item name="genome" title="compares list #1 with the rest of genome" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="go-bp-min-num-genes" title="GO biological process, min number of genes filter" type="MESSAGE" tags="" style="" group="" context="">5</item>
+    <item name="go-cc-nannot-domain" title="GO cellular component, computes the number of annotated genes from all genome, otherwise from your input list" type="MESSAGE" tags="" style="" group="" context="">genome</item>
+    <item name="go-mf-min-num-genes" title="GO molecular function, min number of genes filter" type="MESSAGE" tags="" style="" group="" context="">5</item>
+    <item name="biocarta" title="biocarta" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="go-mf-min-level" title="GO molecular function, min go level to take into account, default 3" type="MESSAGE" tags="" style="" group="" context="">3</item>
+    <item name="reactome" title="reactome" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="kegg-nannot-domain" title="kegg computes the number of annotated genes from all genome, otherwise from you input list" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="go-mf-max-num-genes" title="GO molecular function, max number of genes filter" type="MESSAGE" tags="" style="" group="" context="">1000</item>
+    <item name="go-cc-min-num-genes" title="GO cellular component, min number of genes filter" type="MESSAGE" tags="" style="" group="" context="">5</item>
+    <item name="go-cc" title="GO cellular component database" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="biocarta-max-num-genes" title="biocarta max number of genes filter" type="MESSAGE" tags="" style="" group="" context="">1000</item>
+    <item name="annotations" title="Your own annotations" type="MESSAGE" tags="" style="" group="" context="">none</item>
+    <item name="go-bp-nannot-domain" title="GO biological process, computes the number of annotated genes from all genome, otherwise from your input list" type="MESSAGE" tags="" style="" group="" context="">genome</item>
+    <item name="reactome-nannot-domain" title="reactome computes the number of annotated genes from all genome, otherwise from you input list" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="go-bp-max-num-genes" title="GO biological process, max number of genes filter" type="MESSAGE" tags="" style="" group="" context="">1000</item>
+    <item name="biocarta-nannot-domain" title="biocarta computes the number of annotated genes from all genome, otherwise from you input list" type="MESSAGE" tags="" style="" group="" context=""></item>
+    <item name="reactome-max-num-genes" title="reactome max number of genes filter" type="MESSAGE" tags="" style="" group="" context="">1000</item>
+    <item name="home" title="babelomics home path" type="MESSAGE" tags="" style="" group="" context="">/httpd/bioinfo/babelomics4.3</item>
+  </input>
+  <output>
+    <item name="species" title="Species" type="MESSAGE" tags="INPUT_PARAM" style="" group="Input data" context="">hsa</item>
+    <item name="annotations_per_db" title="Id annotations per DB" type="FILE" tags="TABLE,SUMMARY_TABLE" style="" group="Summary" context="">annotations_per_db.txt</item>
+    <item name="duplicates" title="Duplicates management" type="FILE" tags="TABLE,SUMMARY_TABLE" style="" group="Summary" context="">duplicates.txt</item>
+    <item name="significant" title="Number of significant terms per DB" type="FILE" tags="TABLE,SUMMARY_TABLE,SIGNIFICANT_COUNT_TABLE" style="" group="Significant Results" context="">significant_count_${pvalue}.txt</item>
+    <item name="duplicates_management" title="Duplicates management" type="MESSAGE" tags="INPUT_PARAM" style="" group="Input data" context="">Remove list 1 ids from genome</item>
+    <item name="fisher" title="Fisher exact test" type="MESSAGE" tags="INPUT_PARAM" style="" group="Input data" context="">Two tailed</item>
+    <item name="clean_list1" title="List 1 (after duplicates managing)" type="FILE" tags="IDLIST,CLEAN" style="" group="Input data" context="">clean_list1.txt</item>
+    <item name="significant_biocarta" title="Biocarta significant terms (pvalue=0.005)" type="MESSAGE" tags="WARNING" style="" group="Significant Results.Biocarta" context="pvalue==0.005">No significant terms for current pvalue 0.005</item>
+    <item name="significant_biocarta" title="Biocarta significant terms (pvalue&lt;0.01)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,BIOCARTA_TERM" style="" group="Significant Results.Biocarta" context="pvalue==0.01">significant_biocarta_0.01.txt</item>
+    <item name="significant_biocarta" title="Biocarta significant terms (pvalue&lt;0.05)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,BIOCARTA_TERM" style="" group="Significant Results.Biocarta" context="pvalue==0.05">significant_biocarta_0.05.txt</item>
+    <item name="significant_biocarta" title="Biocarta significant terms (pvalue&lt;0.1)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,BIOCARTA_TERM" style="" group="Significant Results.Biocarta" context="pvalue==0.1">significant_biocarta_0.1.txt</item>
+    <item name="significant_reactome" title="Reactome significant terms (pvalue&lt;0.005)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,REACTOME_TERM" style="" group="Significant Results.Reactome" context="pvalue==0.005">significant_reactome_0.005.txt</item>
+    <item name="significant_reactome" title="Reactome significant terms (pvalue&lt;0.01)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,REACTOME_TERM" style="" group="Significant Results.Reactome" context="pvalue==0.01">significant_reactome_0.01.txt</item>
+    <item name="significant_reactome" title="Reactome significant terms (pvalue&lt;0.05)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,REACTOME_TERM" style="" group="Significant Results.Reactome" context="pvalue==0.05">significant_reactome_0.05.txt</item>
+    <item name="significant_reactome" title="Reactome significant terms (pvalue&lt;0.1)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,REACTOME_TERM" style="" group="Significant Results.Reactome" context="pvalue==0.1">significant_reactome_0.1.txt</item>
+    <item name="significant_kegg" title="KEGG significant terms (pvalue&lt;0.005)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,KEGG_TERM" style="" group="Significant Results.KEGG" context="pvalue==0.005">significant_kegg_0.005.txt</item>
+    <item name="significant_kegg" title="KEGG significant terms (pvalue&lt;0.01)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,KEGG_TERM" style="" group="Significant Results.KEGG" context="pvalue==0.01">significant_kegg_0.01.txt</item>
+    <item name="significant_kegg" title="KEGG significant terms (pvalue&lt;0.05)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,KEGG_TERM" style="" group="Significant Results.KEGG" context="pvalue==0.05">significant_kegg_0.05.txt</item>
+    <item name="significant_kegg" title="KEGG significant terms (pvalue&lt;0.1)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,KEGG_TERM" style="" group="Significant Results.KEGG" context="pvalue==0.1">significant_kegg_0.1.txt</item>
+    <item name="significant_go_molecular_function_3_9" title="GO molecular function (levels from 3 to 9) significant terms (pvalue&lt;0.005)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO molecular function (levels from 3 to 9)" context="pvalue==0.005">significant_go_molecular_function_3_9_0.005.txt</item>
+    <item name="go_graph_significant_go_molecular_function_3_9_0.005" title="GO molecular function (levels from 3 to 9) DAG (significant terms, pvalue=0.005)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO molecular function (levels from 3 to 9)" context="pvalue==0.005">Graph not found</item>
+    <item name="significant_go_molecular_function_3_9" title="GO molecular function (levels from 3 to 9) significant terms (pvalue&lt;0.01)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO molecular function (levels from 3 to 9)" context="pvalue==0.01">significant_go_molecular_function_3_9_0.01.txt</item>
+    <item name="go_graph_significant_go_molecular_function_3_9_0.01" title="GO molecular function (levels from 3 to 9) DAG (significant terms, pvalue=0.01)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO molecular function (levels from 3 to 9)" context="pvalue==0.01">Graph not found</item>
+    <item name="significant_go_molecular_function_3_9" title="GO molecular function (levels from 3 to 9) significant terms (pvalue&lt;0.05)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO molecular function (levels from 3 to 9)" context="pvalue==0.05">significant_go_molecular_function_3_9_0.05.txt</item>
+    <item name="go_graph_significant_go_molecular_function_3_9_0.05" title="GO molecular function (levels from 3 to 9) DAG (significant terms, pvalue=0.05)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO molecular function (levels from 3 to 9)" context="pvalue==0.05">Graph not found</item>
+    <item name="significant_go_molecular_function_3_9" title="GO molecular function (levels from 3 to 9) significant terms (pvalue&lt;0.1)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO molecular function (levels from 3 to 9)" context="pvalue==0.1">significant_go_molecular_function_3_9_0.1.txt</item>
+    <item name="go_graph_significant_go_molecular_function_3_9_0.1" title="GO molecular function (levels from 3 to 9) DAG (significant terms, pvalue=0.1)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO molecular function (levels from 3 to 9)" context="pvalue==0.1">Graph not found</item>
+    <item name="significant_go_cellular_component_3_9" title="GO cellular component (levels from 3 to 9) significant terms (pvalue&lt;0.005)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO cellular component (levels from 3 to 9)" context="pvalue==0.005">significant_go_cellular_component_3_9_0.005.txt</item>
+    <item name="go_graph_significant_go_cellular_component_3_9_0.005" title="GO cellular component (levels from 3 to 9) DAG (significant terms, pvalue=0.005)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO cellular component (levels from 3 to 9)" context="pvalue==0.005">Graph not found</item>
+    <item name="significant_go_cellular_component_3_9" title="GO cellular component (levels from 3 to 9) significant terms (pvalue&lt;0.01)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO cellular component (levels from 3 to 9)" context="pvalue==0.01">significant_go_cellular_component_3_9_0.01.txt</item>
+    <item name="go_graph_significant_go_cellular_component_3_9_0.01" title="GO cellular component (levels from 3 to 9) DAG (significant terms, pvalue=0.01)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO cellular component (levels from 3 to 9)" context="pvalue==0.01">Graph not found</item>
+    <item name="significant_go_cellular_component_3_9" title="GO cellular component (levels from 3 to 9) significant terms (pvalue&lt;0.05)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO cellular component (levels from 3 to 9)" context="pvalue==0.05">significant_go_cellular_component_3_9_0.05.txt</item>
+    <item name="go_graph_significant_go_cellular_component_3_9_0.05" title="GO cellular component (levels from 3 to 9) DAG (significant terms, pvalue=0.05)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO cellular component (levels from 3 to 9)" context="pvalue==0.05">Graph not found</item>
+    <item name="significant_go_cellular_component_3_9" title="GO cellular component (levels from 3 to 9) significant terms (pvalue&lt;0.1)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO cellular component (levels from 3 to 9)" context="pvalue==0.1">significant_go_cellular_component_3_9_0.1.txt</item>
+    <item name="go_graph_significant_go_cellular_component_3_9_0.1" title="GO cellular component (levels from 3 to 9) DAG (significant terms, pvalue=0.1)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO cellular component (levels from 3 to 9)" context="pvalue==0.1">Graph not found</item>
+    <item name="significant_go_biological_process_3_9" title="GO biological process (levels from 3 to 9) significant terms (pvalue&lt;0.005)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO biological process (levels from 3 to 9)" context="pvalue==0.005">significant_go_biological_process_3_9_0.005.txt</item>
+    <item name="go_graph_significant_go_biological_process_3_9_0.005" title="GO biological process (levels from 3 to 9) DAG (significant terms, pvalue=0.005)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO biological process (levels from 3 to 9)" context="pvalue==0.005">Graph not found</item>
+    <item name="significant_go_biological_process_3_9" title="GO biological process (levels from 3 to 9) significant terms (pvalue&lt;0.01)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO biological process (levels from 3 to 9)" context="pvalue==0.01">significant_go_biological_process_3_9_0.01.txt</item>
+    <item name="go_graph_significant_go_biological_process_3_9_0.01" title="GO biological process (levels from 3 to 9) DAG (significant terms, pvalue=0.01)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO biological process (levels from 3 to 9)" context="pvalue==0.01">Graph not found</item>
+    <item name="significant_go_biological_process_3_9" title="GO biological process (levels from 3 to 9) significant terms (pvalue&lt;0.05)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO biological process (levels from 3 to 9)" context="pvalue==0.05">significant_go_biological_process_3_9_0.05.txt</item>
+    <item name="go_graph_significant_go_biological_process_3_9_0.05" title="GO biological process (levels from 3 to 9) DAG (significant terms, pvalue=0.05)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO biological process (levels from 3 to 9)" context="pvalue==0.05">Graph not found</item>
+    <item name="significant_go_biological_process_3_9" title="GO biological process (levels from 3 to 9) significant terms (pvalue&lt;0.1)" type="FILE" tags="SIGNIFICANT,TABLE,FATIGO_TABLE,EXCEL,GO_TERM" style="" group="Significant Results.GO biological process (levels from 3 to 9)" context="pvalue==0.1">significant_go_biological_process_3_9_0.1.txt</item>
+    <item name="go_graph_significant_go_biological_process_3_9_0.1" title="GO biological process (levels from 3 to 9) DAG (significant terms, pvalue=0.1)" type="MESSAGE" tags="ERROR" style="" group="Significant Results.GO biological process (levels from 3 to 9)" context="pvalue==0.1">Graph not found</item>
+    <item name="clean_list2" title="Genome (after duplicates managing)" type="FILE" tags="IDLIST,CLEAN" style="" group="Input data" context="">clean_list2.txt</item>
+    <item name="go_biological_process_3_9" title="GO biological process (levels from 3 to 9)" type="FILE" tags="EXCEL,GO_TERM" style="" group="All results" context="">go_biological_process_3_9.txt</item>
+    <item name="annot_go_biological_process_3_9" title="Annotations for GO biological process (levels from 3 to 9)" type="FILE" tags="ANNOTATION" style="" group="Annotation files" context="">go_biological_process_3_9.annot</item>
+    <item name="go_cellular_component_3_9" title="GO cellular component (levels from 3 to 9)" type="FILE" tags="EXCEL,GO_TERM" style="" group="All results" context="">go_cellular_component_3_9.txt</item>
+    <item name="annot_go_cellular_component_3_9" title="Annotations for GO cellular component (levels from 3 to 9)" type="FILE" tags="ANNOTATION" style="" group="Annotation files" context="">go_cellular_component_3_9.annot</item>
+    <item name="go_molecular_function_3_9" title="GO molecular function (levels from 3 to 9)" type="FILE" tags="EXCEL,GO_TERM" style="" group="All results" context="">go_molecular_function_3_9.txt</item>
+    <item name="annot_go_molecular_function_3_9" title="Annotations for GO molecular function (levels from 3 to 9)" type="FILE" tags="ANNOTATION" style="" group="Annotation files" context="">go_molecular_function_3_9.annot</item>
+    <item name="kegg" title="KEGG" type="FILE" tags="EXCEL,KEGG_TERM" style="" group="All results" context="">kegg.txt</item>
+    <item name="annot_kegg" title="Annotations for KEGG" type="FILE" tags="ANNOTATION" style="" group="Annotation files" context="">kegg.annot</item>
+    <item name="reactome" title="Reactome" type="FILE" tags="EXCEL,REACTOME_TERM" style="" group="All results" context="">reactome.txt</item>
+    <item name="annot_reactome" title="Annotations for Reactome" type="FILE" tags="ANNOTATION" style="" group="Annotation files" context="">reactome.annot</item>
+    <item name="biocarta" title="Biocarta" type="FILE" tags="EXCEL,BIOCARTA_TERM" style="" group="All results" context="">biocarta.txt</item>
+    <item name="annot_biocarta" title="Annotations for Biocarta" type="FILE" tags="ANNOTATION" style="" group="Annotation files" context="">biocarta.annot</item>
+  </output>
+</result>

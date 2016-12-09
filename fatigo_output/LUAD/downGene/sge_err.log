@@ -1,0 +1,188 @@
+estas? genome
+estas? genome
+estas? genome
+all genes: 49506
+protein_coding: 23621
+dbConnector:     mysqlweb	3306	homo_sapiens_ir_v1	biouser	biopass
+
+all genes: 49506
+protein_coding: 23621
+max gos exceeded
+namespace: b
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+max gos exceeded
+namespace: b
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+namespace: b
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+namespace: b
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+dbConnector:     mysqlweb	3306	homo_sapiens_ir_v1	biouser	biopass
+
+all genes: 49506
+protein_coding: 23621
+namespace: c
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+namespace: c
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+namespace: c
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+namespace: c
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+dbConnector:     mysqlweb	3306	homo_sapiens_ir_v1	biouser	biopass
+
+all genes: 49506
+protein_coding: 23621
+namespace: m
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+namespace: m
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+namespace: m
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+namespace: m
+graph : http://babelomics4.bioinfo.cipf.es/Downloader?mimetype=application/x-java-jnlp-file&filename= blast2goDB b2g_jun09 blast2go blast4it
+es.blast2go.prog.graph.GoGraphException: Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+	at es.blast2go.prog.graph.GetGraphApi.createGraph(GetGraphApi.java:257)
+	at es.blast2go.prog.graph.GetGraphApi.run(GetGraphApi.java:164)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:474)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+dbConnector:     mysqlweb	3306	homo_sapiens_ir_v1	biouser	biopass
+
+all genes: 49506
+protein_coding: 23621
+dbConnector:     mysqlweb	3306	homo_sapiens_ir_v1	biouser	biopass
+
+all genes: 49506
+protein_coding: 23621
+dbConnector:     mysqlweb	3306	homo_sapiens_ir_v1	biouser	biopass
+
+all genes: 49506
+protein_coding: 23621
+report:null:

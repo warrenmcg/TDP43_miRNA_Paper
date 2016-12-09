@@ -1,0 +1,28 @@
+Running DESeq2 on the mRNA isoform counts
+[1] "Finishing set-up..."
+converting counts to integer mode
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates: 8 workers
+mean-dispersion relationship
+final dispersion estimates, MLE betas: 8 workers
+fitting model and testing: 8 workers
+-- replacing outliers and refitting for 9160 genes
+-- DESeq argument 'minReplicatesForReplace' = 7 
+-- original counts are preserved in counts(dds)
+estimating dispersions
+fitting model and testing
+[1] "Finishing set-up..."
+converting counts to integer mode
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates: 8 workers
+mean-dispersion relationship
+final dispersion estimates, MLE betas: 8 workers
+fitting model and testing: 8 workers
+-- replacing outliers and refitting for 7300 genes
+-- DESeq argument 'minReplicatesForReplace' = 7 
+-- original counts are preserved in counts(dds)
+estimating dispersions
+fitting model and testing
+Step 3 complete ...

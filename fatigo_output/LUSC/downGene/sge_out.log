@@ -1,0 +1,303 @@
+
+
+Starting FatiGO...
+GO biological process (levels from 3 to 9)...
+Starting FatiGO test...
+removing duplicates...OK
+preparing list union...getting annotations from infraredOK
+executing fisher test...OK
+getting results...OK
+end of FatiGO test...
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.1_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.1_b2gPipe.properties
+Loading (b): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.1_association.txt
+102 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.05_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.05_b2gPipe.properties
+Loading (b): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.05_association.txt
+102 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.01_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.01_b2gPipe.properties
+Loading (b): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.01_association.txt
+102 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.005_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.005_b2gPipe.properties
+Loading (b): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_biological_process_3_9_0.005_association.txt
+89 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: BIOLOGICAL_PROCESS The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+...finished
+GO cellular component (levels from 3 to 9)...
+Starting FatiGO test...
+removing duplicates...OK
+preparing list union...getting annotations from infraredOK
+executing fisher test...OK
+getting results...OK
+end of FatiGO test...
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.1_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.1_b2gPipe.properties
+Loading (c): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.1_association.txt
+36 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.05_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.05_b2gPipe.properties
+Loading (c): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.05_association.txt
+26 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.01_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.01_b2gPipe.properties
+Loading (c): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.01_association.txt
+17 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.005_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.005_b2gPipe.properties
+Loading (c): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_cellular_component_3_9_0.005_association.txt
+16 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: CELLULAR_COMPONENT The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+...finished
+GO molecular function (levels from 3 to 9)...
+Starting FatiGO test...
+removing duplicates...OK
+preparing list union...getting annotations from infraredOK
+executing fisher test...OK
+getting results...OK
+end of FatiGO test...
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.1_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.1_b2gPipe.properties
+Loading (m): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.1_association.txt
+54 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.05_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.05_b2gPipe.properties
+Loading (m): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.05_association.txt
+22 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.01_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.01_b2gPipe.properties
+Loading (m): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.01_association.txt
+12 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+Blast2GO (2.4.3) started (without GUI)
+change properties location to: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.005_b2gPipe.properties
+create file: /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.005_b2gPipe.properties
+Loading (m): /httpd/bioinfo/wum_sessions_v0.7/1176760/jobs/326401/graphs/go_graph_go_molecular_function_3_9_0.005_association.txt
+4 IDs loaded.
+Problem connecting to database b2g_jun09 on blast2goDB as blast2go with password starts with bla*****: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Database or network connection error for: blast2goDB
+Save Graph
+Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results. 
+[FatiGoTool]Graph Size Error: MOLECULAR_FUNCTION The graph you are trying to visualize has due to some reason no elements.
+Try to change filters setting and check the mapping and annotation results.  ==> 	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGseaGoGraph(FunctionalProfilingTool.java:487)
+	at org.bioinfo.babelomics.tools.functional.FunctionalProfilingTool.createGoGraph(FunctionalProfilingTool.java:402)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.saveFatigoResults(FatiGOTool.java:320)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.doFatigo(FatiGOTool.java:229)
+	at org.bioinfo.babelomics.tools.functional.FatiGOTool.execute(FatiGOTool.java:172)
+	at org.bioinfo.tool.GenericBioTool.run(GenericBioTool.java:117)
+	at org.bioinfo.babelomics.BabelomicsMain.main(BabelomicsMain.java:61)
+
+...finished
+KEGG...
+Starting FatiGO test...
+removing duplicates...OK
+preparing list union...getting annotations from infraredOK
+executing fisher test...OK
+getting results...OK
+end of FatiGO test...
+...finished
+Reactome...
+Starting FatiGO test...
+removing duplicates...OK
+preparing list union...getting annotations from infraredOK
+executing fisher test...OK
+getting results...OK
+end of FatiGO test...
+...finished
+Biocarta...
+Starting FatiGO test...
+removing duplicates...OK
+preparing list union...getting annotations from infraredOK
+executing fisher test...OK
+getting results...OK
+end of FatiGO test...
+...finished

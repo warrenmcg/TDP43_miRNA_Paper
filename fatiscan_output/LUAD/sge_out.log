@@ -1,0 +1,11 @@
+
+
+Computing your annotations term sizes...OK
+Sun Mar 01 03:02:01 CET 2015	org.bioinfo.babelomics.tools.functional.FatiScanTool	INFO:	Your annotations...
+
+removing duplicates...OK
+removing duplicates...OK
+preparing gene lists...OK
+getting annotations...214975 annotations found...OK
+loading gene map...OK
+Sun Mar 01 03:02:06 CET 2015	org.bioinfo.babelomics.tools.functional.FatiScanTool	INFO:	...end of Your annotations

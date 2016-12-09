@@ -1,0 +1,66 @@
+REACT_1046	Pyruvate metabolism and Citric Acid (TCA) cycle
+REACT_11044	Signaling by Rho GTPases
+REACT_11045	Signaling by Wnt
+REACT_11052	Metabolism of non-coding RNA
+REACT_11061	Signalling by NGF
+REACT_11123	Membrane Trafficking
+REACT_11184	Neurotoxicity of clostridium toxins
+REACT_11193	Metabolism of vitamins and cofactors
+REACT_12034	Signaling by BMP
+REACT_12472	Gene Silencing by RNA
+REACT_125	Processing of Capped Intron-Containing Pre-mRNA
+REACT_12508	Metabolism of nitric oxide
+REACT_12529	Signaling by VEGF
+REACT_13	Metabolism of amino acids and derivatives
+REACT_13433	Biological oxidations
+REACT_13552	Integrin cell surface interactions
+REACT_13635	Regulation of activated PAK-2p34 by proteasome mediated degradation
+REACT_13685	Neuronal System
+REACT_13698	Regulation of beta-cell development
+REACT_14797	Signaling by GPCR
+REACT_1505	Integration of energy metabolism
+REACT_152	Cell Cycle, Mitotic
+REACT_15295	Opioid Signalling
+REACT_15314	Hormone biosynthesis
+REACT_1538	Cell Cycle Checkpoints
+REACT_15380	Diabetes pathways
+REACT_15518	Transmembrane transport of small molecules
+REACT_1675	mRNA Processing
+REACT_16888	Signaling by PDGF
+REACT_1698	Metabolism of nucleotides
+REACT_17015	Metabolism of proteins
+REACT_17044	Muscle contraction
+REACT_1762	3' -UTR-mediated translational regulation
+REACT_1788	Transcription
+REACT_18266	Axon guidance
+REACT_1892	Elongation arrest and recovery
+REACT_20605	Metabolism of mRNA
+REACT_20676	Cell junction organization
+REACT_216	DNA Repair
+REACT_299	Signaling by NOTCH
+REACT_383	DNA Replication
+REACT_474	Metabolism of carbohydrates
+REACT_498	Signaling by Insulin receptor
+REACT_508	Signal attenuation
+REACT_578	Apoptosis
+REACT_602	Lipid digestion, mobilization, and transport
+REACT_604	Hemostasis
+REACT_6143	Pausing and recovery of Tat-mediated HIV elongation
+REACT_6167	Influenza Infection
+REACT_6185	HIV Infection
+REACT_6244	Pausing and recovery of HIV elongation
+REACT_6259	HIV elongation arrest and recovery
+REACT_6344	Tat-mediated HIV elongation arrest and recovery
+REACT_649	Phase 1 functionalization
+REACT_6844	Signaling by TGF-beta Receptor Complex
+REACT_6850	Cdc20:Phospho-APC/C mediated degradation of Cyclin A
+REACT_6900	Immune System
+REACT_71	Gene Expression
+REACT_769	Pausing and recovery of elongation
+REACT_7970	Telomere Maintenance
+REACT_8017	APC-Cdc20 mediated degradation of Nek2A
+REACT_9035	APC/C:Cdh1-mediated degradation of Skp2
+REACT_9417	Signaling by EGFR
+REACT_9431	Metabolism of porphyrins
+REACT_9470	Signaling by FGFR
+REACT_9480	Gap junction trafficking and regulation
