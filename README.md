@@ -35,10 +35,14 @@ size (several GB total). This pipeline assumes that you do step 1a and 1b.
 2. LUSC: 367 (37 control samples, 330 tumor sample)
 	* use `lusc_file_manifest.txt` with the GDC data transfer tool to download the same files yourself
 
-For the downstream steps to work without modification, you must rename the top level directories for this data
-as `LUAD_data` and `LUSC_data`, respectively, and place these directories in this repository.
+The easiest way to do this is to follow the steps in the `tcga_file_manifests` directory using the
+GDC data transfer tool. Click [here](https://github.com/warrenmcg/TDP43_miRNA_Paper/tree/master/tcga_file_manifests#how-to-download-tcga-data) to follow those steps.
 
-__NOTE__: If you wish to use different names, or place directories elsewhere on your computer, you need to modify the
+If you download the data manually, please keep in mind the following note:
+
+__NOTE__: For the downstream steps to work without modification, you must rename the top level directories for this data
+as `LUAD_data` and `LUSC_data`, respectively, and place these directories in this repository.
+If you wish to use different names, or place directories elsewhere on your computer, you need to modify the
 `LUAD_DIR` and `LUSC_DIR` variables at the top of the following scripts: step_2c.sh, step_3.sh, step_4.sh, step_5.sh, step_7.sh, and step_9.sh
 
 ## Step 1b
