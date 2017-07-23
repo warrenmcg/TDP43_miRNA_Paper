@@ -2,9 +2,15 @@
 
 This is a step-by-step guide on how to reproduce exactly the analysis performed in the paper.
 
-*__Note__: To run all steps, you can type `bash run_all_steps.sh` at the command line. This 
-script presumes that you've already run Fatiscan and FatiGO. If you have not, 
-the script currently breaks at step 7 or step 9, respectively.*
+*__Note #1__: To run all steps, you can type `bash run_all_steps.sh` at the command line. This 
+script presumes that you've already run Fatiscan and FatiGO. If you do not have the fatiscan_output
+and fatigo_output directories, the script currently breaks at step 7 or step 9, respectively.*
+
+*__Note #2__: Each bash script for each step assumes that they are run from their directory. The
+scripts will break otherwise.
+
+*__Note #3__: The annotations and the TCGA data are not included with this repository because of their
+size (several GB total). This pipeline assumes that you do step 1a and 1b.
 
 ## Step 0
 ### install necessary R packages (DESeq2, ProMISe) and python packages (BCBio and HTSeq)
@@ -28,7 +34,15 @@ the script currently breaks at step 7 or step 9, respectively.*
 	* use `luad_file_manifest.txt` with the GDC data transfer tool to download the same files yourself
 2. LUSC: 367 (37 control samples, 330 tumor sample)
 	* use `lusc_file_manifest.txt` with the GDC data transfer tool to download the same files yourself
-	
+
+For the downstream steps to work without modification, you must rename the top level directories for this data
+as "LUAD_data" and "LUSC_data", respectively, and place these directories in this repository.
+
+__NOTE__: If you wish to use different names, or place directories elsewhere on your computer, you need to modify the
+"LUAD_DIR" and "LUSC_DIR" variables at the top of the following scripts:
+
+step_2c.sh, step_3.sh, step_4.sh, step_5.sh, step_7.sh, and step_9.sh
+
 ## Step 1b
 ### Download annotations used for TCGA analysis 
 * RNA: UCSC, hg19, June 2011; miRNA: miRBase v21 and miRanda 08/2010 release
