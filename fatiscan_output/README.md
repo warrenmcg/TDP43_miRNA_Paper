@@ -25,3 +25,8 @@ Here are the meanings of the columns in that file:
 + **odds_ratio_log**: the natural log of the odds ratio: (list1 %) / (list2 %)
 + **pvalue**: the p-value as determined by the hypergeometric test
 + **adj_pvalue**: the adjusted p-value after Benjamini-Hochberg correction
+
+## References
+
+Fatiscan paper: [10.1186/1471-2105-8-114](https://dx.doi.org/10.1186/1471-2105-8-114)
+Babelomics paper: [10.1093/nar/gkq388](https://dx.doi.org/10.1093/nar/gkq388)
